@@ -245,9 +245,6 @@ def main():
 
     except KeyboardInterrupt:
         print(" ")
-        print(" ")
-        print(" ")
-        print(" ")
         print(f"{Fore.RED} > Program terminated by user.")
     except Exception as e:
         print(" ")
