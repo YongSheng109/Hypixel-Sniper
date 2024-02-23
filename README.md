@@ -17,6 +17,12 @@ Hypixel Sniper is a Python tool designed toprovide real-time updates on player s
 
 ## How to Use:
 
+Install the requirements:
+```
+python -m pip install -r requirements.txt
+```
+
+Running the sniper:
 ```
 python -W ignore sniper.py
 ```
