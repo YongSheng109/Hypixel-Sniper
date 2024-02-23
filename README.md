@@ -10,9 +10,22 @@ Hypixel Sniper is a Python tool designed toprovide real-time updates on player s
 - **Customization Options**: Customize refresh intervals, enable/disable alerts, and configure clipboard functionality to suit your preferences.
 - **User-Friendly Interface**: Designed with simplicity and ease of use in mind, Hypixel Sniper provides a straightforward command-line interface for seamless interaction.
 
+## Showcase
+
+![image](https://github.com/YongSheng109/Hypixel-Sniper/assets/93895098/e36bf8db-510b-4c07-934f-561f4f08feef)
+
+
 ## How to Use:
 
-```python -W ignore sniper.py```
+```
+python -W ignore sniper.py
+```
+You can also add username as arguments after sniper.py.
+Example:
+
+```
+python -W ignore sniper.py oYongSheng_
+```
 
 ## License:
 
