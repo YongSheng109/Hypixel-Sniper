@@ -12,7 +12,6 @@ Hypixel Sniper is a Python tool designed to provide real-time updates on player 
 
 ## Showcase
 
-V1
 ![image](https://github.com/YongSheng109/Hypixel-Sniper/assets/93895098/e36bf8db-510b-4c07-934f-561f4f08feef)
 
 v2 Private
