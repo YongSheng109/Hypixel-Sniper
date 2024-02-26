@@ -2,11 +2,14 @@
 
 Hypixel Sniper is a Python tool designed to provide real-time updates on player status and statistics. Hypixel Sniper offers valuable insights into player activity, statistics, and more.
 
-## Features:
+
+## Updates:
 
 - **Sniper v1**: Only for player statistics and status
 - **Sniper v2**: Search for target automatically in lobby1
 - **Sniper v3**: Added auto-queue
+
+## Features:
 
 - **Player Monitoring**: Stay informed about the status of the player, including online/offline status and current game modes.
 - **Player Statistics**: Track player statistics such as winstreaks, star levels, and FKDR for bedwars.
