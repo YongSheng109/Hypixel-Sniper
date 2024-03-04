@@ -6,8 +6,8 @@ Hypixel Sniper is a Python tool designed to provide real-time updates on player 
 ## Updates:
 
 - **Sniper v1**: Only for player statistics and status
-- **Sniper v2**: Search for target automatically in lobby1
-- **Sniper v3**: Added auto-queue
+- **Sniper v2**: Search for target automatically in lobby1 and added auto-queue
+- **Sniper v3**: Added anti-sniper api for e-winstreak and discord
 
 ## Features:
 
